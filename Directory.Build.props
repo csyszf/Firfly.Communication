@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>7.2</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <!-- sdk -->
+    <JsonNetVersion>11.0.2</JsonNetVersion>
+    <BondVersion>7.0.1</BondVersion>
+    <!-- test -->
+    <MicrosoftTestSdkVersion>15.7.0</MicrosoftTestSdkVersion>
+    <xUnitVersion>2.3.1</xUnitVersion>
+    <FluentAssertionsVersion>5.3.0</FluentAssertionsVersion>
+    <MoqVersion>4.8.2</MoqVersion>
+    <BenchmarkDotNetPackageVersion>0.10.12</BenchmarkDotNetPackageVersion>
+  </PropertyGroup>
+</Project>
